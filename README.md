@@ -1,9 +1,11 @@
 # To do list 
+<img width="256" alt="Screenshot 2023-10-13 at 17 35 51" src="https://github.com/jenniferslagt/todo-list-ts/assets/45489420/5c842d65-57e6-4655-8bf9-42ee05a22eef">
 
 Watch the to-do list here
 
 ## Description
 Iknow, another to do app. So vanilla, isn't it? But the key of this project is getting to **understand** TypeScript. This is just the beginning, more "interesting" projects will follow.
+Oh and: when you achieve a task, a small confetti shotgun will be fire 🎉
 
 ## So, what is TypeScript?
 While using _JavaScript_, we always play with data. This can be variables, functions, arrays, objects etc. But sometimes it's hard to understand what **types** of data can be passed around. 
