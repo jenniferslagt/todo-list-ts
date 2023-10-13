@@ -29,6 +29,8 @@ In this way it's way easier to prevent bugs, because TS has the ability to repor
 * Nullable Types
 * Optional Chaining
 
+PS, for a better explanation I made some [notes](https://github.com/jenniferslagt/todo-list-ts/wiki/Notes-while-following-the-TS-course!) during this course.
+
 ## Sources
 * [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs)
 * [How To Build Your First TypeScript Project - TODO List Application](https://www.youtube.com/watch?v=jBmrduvKl5w)
