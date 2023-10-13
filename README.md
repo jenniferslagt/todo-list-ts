@@ -6,7 +6,7 @@ Watch the to-do list <a href="https://jenniferslagt.github.io/todo-list-ts/publi
 
 ## Description
 Iknow, another to do app. So vanilla, isn't it? But the key of this project is getting to **understand** TypeScript. This is just the beginning, more "interesting" projects will follow.
-Oh and: when you achieve a task, a small confetti shotgun will be fire 🎉 Not to mention that the computer will save the and update the tasks with localStorage.
+Oh and: when you achieve a task, a small confetti shotgun will be fire 🎉 Not to mention that the computer will save and update the tasks with localStorage.
 
 ## So, what is TypeScript?
 While using _JavaScript_, we always play with data. This can be variables, functions, arrays, objects etc. But sometimes it's hard to understand what **types** of data can be passed around. 
