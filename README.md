@@ -1,7 +1,8 @@
 # To do list 
 <img width="256" alt="Screenshot 2023-10-13 at 17 35 51" src="https://github.com/jenniferslagt/todo-list-ts/assets/45489420/5c842d65-57e6-4655-8bf9-42ee05a22eef">
 
-Watch the to-do list [here](https://jenniferslagt.github.io/todo-list-ts/public/index.html){:target="_blank"}
+Watch the to-do list <a href="https://jenniferslagt.github.io/todo-list-ts/public/index.html" target="_blank">here</a>
+
 
 ## Description
 Iknow, another to do app. So vanilla, isn't it? But the key of this project is getting to **understand** TypeScript. This is just the beginning, more "interesting" projects will follow.
